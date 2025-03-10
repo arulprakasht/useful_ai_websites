@@ -15,6 +15,8 @@
 | Name | Description | Site |
 | --- | --- | --- |
 | </br> <img width="150" alt="image" src="https://github.com/user-attachments/assets/f71d8bec-545f-4c42-a76e-99fbe60b2269" /> | FutureTools Collects & Organizes All The Best AI Tools | https://www.futuretools.io
+| </br> <img width="160" alt="image" src="https://github.com/user-attachments/assets/ff7ed6d2-7f0e-4e6a-af88-9349c0990f82" /> | Build AI agent teams that work together to tackle complex tasks | https://www.crewai.com/
+
 
  
 
